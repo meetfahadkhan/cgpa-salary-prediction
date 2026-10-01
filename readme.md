@@ -52,5 +52,4 @@ I plan to improve this project by:
 * Adding model evaluation metrics
 * Using more features
 * Trying other Machine Learning algorithms
-* Comparing different models
 ![alt text](download.png)
